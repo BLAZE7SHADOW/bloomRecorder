@@ -16,7 +16,10 @@ const Navbar = () => {
         </div>
         <div className="nav-right">
           <ul className="social-media">
-            <a href="https://github.com/BLAZE7SHADOW" target="_blank">
+            <a
+              href="https://github.com/BLAZE7SHADOW/bloomRecorder"
+              target="_blank"
+            >
               <li>
                 <BsGithub />
               </li>
